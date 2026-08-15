@@ -1,1 +1,1 @@
-# data-science-classwork
+# ds-exercises
